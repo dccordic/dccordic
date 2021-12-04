@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dccordic
 - 👀 I’m interested in learning and developing video games, apps, websites.
-- 🌱 I’m currently learning javascript (Completing BsC in Computer Science).
+- 🌱 I’m currently learning javascript, C#, Git (Completing BsC in Computer Science).
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me dccordic@amazon.com
 
